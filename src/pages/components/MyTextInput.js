@@ -17,6 +17,7 @@ const MyTextInput = props => {
                 style={props.style}
                 blurOnSubmit={false}
                 value={props.value}
+            
             />
         </View>
     )
